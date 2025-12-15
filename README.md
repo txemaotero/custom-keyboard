@@ -31,14 +31,14 @@ Things to consider:
 - [ ] Switch capsules:
     - [x] Switch hole dimensions (snap-fit)
     - [x] Socket hole dimensions (both pins fit and sit flat)
-    - [ ] Socket retention mechanism
-    - [ ] Combined switch + socket hole
+    - [x] Socket retention mechanism
+    - [x] Combined switch + socket hole
     - [ ] Polish final version
 - [ ] Capsule cutouts: These will be integrated into the case
     - [ ] Test and adjust capsules so they snap in (they could also be glued)
 - [ ] Trackball module
-    - [ ] Bearing holes
-    - [ ] Hole layout (3) to support the ball
+    - [x] Bearing holes
+    - [-] Hole layout (3) to support the ball
     - [ ] Sensor board mount: review specs carefully
 - [ ] MCU mounts
 - [ ] Key layout and trackball positioning
