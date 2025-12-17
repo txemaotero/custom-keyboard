@@ -28,21 +28,25 @@ Things to consider:
 
 ### Initial Prototyping
 
-- [ ] Switch capsules:
+- [x] Switch capsules:
     - [x] Switch hole dimensions (snap-fit)
     - [x] Socket hole dimensions (both pins fit and sit flat)
     - [x] Socket retention mechanism
     - [x] Combined switch + socket hole
-    - [ ] Polish final version
-- [ ] Capsule cutouts: These will be integrated into the case
-    - [ ] Test and adjust capsules so they snap in (they could also be glued)
+    - [x] Polish final version
+- [x] Capsule cutouts: These will be integrated into the case
+    - [x] Test and adjust capsules so they snap in (they could also be glued as once the soldering behind is done, they should never go out)
 - [ ] Trackball module
     - [x] Bearing holes
     - [-] Hole layout (3) to support the ball
     - [ ] Sensor board mount: review specs carefully
-- [ ] MCU mounts
-- [ ] Key layout and trackball positioning
-    - [ ] Find optimal hand orientation and resting position. Start experimenting with track position.
+- [ ] Key layout:
+    - [ ] Find optimal hand orientation and resting position.
     - [ ] Distribute and orient keys around the resting position
+- [ ] MCU mounts
+- [ ] trackball positioning
+    - [ ] Start experimenting with trackball position.
+    - [ ] Optimize bearings positioning
+- [ ] Think about portable mode (disengage from tilt support and wrist placements)
 - [ ] Final assembly...
 
